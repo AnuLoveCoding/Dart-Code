@@ -2,7 +2,7 @@ void main(List<String> args) {
   // ? control Structure;
   // ! if  structure
   // ! if - else - structure
-  //  ! if - elseif - else - structure
+  // ! if - elseif - else - structure
   // ! switch case;
 
   var n = 'Amit';
