@@ -6,7 +6,6 @@
 */
 // *
 
-import 'dart:ffi';
 
 void main(List<String> args) {
   // ! var data-type is used for dynamic;
@@ -70,7 +69,7 @@ void main(List<String> args) {
   // var a = 10;
   // print(a > 20 ? 'A is greater than 10' : 'A is less than 10');
 
-  // ! Cascading Notations (..);
+  // ? Cascading Notations (..);
 
   var str = 'Anurag';
 
