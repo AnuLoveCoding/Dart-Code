@@ -7,11 +7,11 @@ void main(List<String> args) {
 
   var n = 'Amit';
 
-  // if (n == 'Anurag') {
+  // if(n == 'Anurag') {
   //   print('Rights:');
-  // } else if (n == 'Amit') {
+  // }else if (n == 'Amit') {
   //   print('Pani');
-  // } else {
+  // }else {
   //   print(n);
   // }
 
